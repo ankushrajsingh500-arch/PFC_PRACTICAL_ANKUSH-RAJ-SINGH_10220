@@ -1,6 +1,6 @@
 #include <stdio.h>
 void swap(int*a,int*b){
-    //Animeshkushwaha_10195
+    //Ankush Raj Singh_10220
     int temp;
     temp =*a;
     *a=*b;

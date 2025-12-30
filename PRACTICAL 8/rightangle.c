@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main(){
-    //Animesh kushwaha_10195
+    //Ankush Raj Singh_10220
     int n;
     printf("Enter the height of the triangle: ");
     scanf("%d", &n);
